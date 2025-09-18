@@ -12,4 +12,5 @@ Dataset Used
 
 ![MRI Sample 1](https://github.com/user-attachments/assets/aae35a70-4b64-407f-8f3d-d984d7e463e5#width=18&height=8)
 
-![MRI Sample 2](https://github.com/user-attachments/assets/0c45b44e-9016-48e6-aac5-7ee2af2b4036#width=12&height=10)
+<img width="785" height="624" alt="image" src="https://github.com/user-attachments/assets/05b07e03-6cf7-4a75-9d6a-f05f334ca65a" />
+
